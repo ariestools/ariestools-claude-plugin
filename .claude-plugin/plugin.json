@@ -1,0 +1,21 @@
+{
+  "name": "ariestools-skills",
+  "version": "0.1.1",
+  "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, and dependency policy.",
+  "author": {
+    "name": "Aries Tools",
+    "email": "support@xylabs.com",
+    "url": "https://github.com/ariestools"
+  },
+  "homepage": "https://github.com/ariestools/ariestools-skills",
+  "repository": "https://github.com/ariestools/ariestools-skills",
+  "license": "LGPL-3.0-only",
+  "keywords": [
+    "ariestools",
+    "typescript",
+    "toolchain",
+    "eslint",
+    "vitest",
+    "pnpm"
+  ]
+}
