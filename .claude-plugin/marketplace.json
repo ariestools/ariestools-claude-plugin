@@ -5,14 +5,14 @@
     "email": "support@xylabs.com"
   },
   "metadata": {
-    "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, and dependency policy.",
-    "version": "0.1.1"
+    "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, and the @ariestools/sdk utility libraries.",
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "ariestools-skills",
-      "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, and dependency policy.",
-      "version": "0.1.1",
+      "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, and the @ariestools/sdk utility libraries.",
+      "version": "0.1.2",
       "author": {
         "name": "Aries Tools"
       },
@@ -22,6 +22,7 @@
         "ariestools",
         "typescript",
         "toolchain",
+        "sdk",
         "eslint",
         "vitest",
         "pnpm"
@@ -30,6 +31,7 @@
         "ariestools",
         "typescript",
         "toolchain",
+        "sdk",
         "eslint",
         "vitest",
         "pnpm"
