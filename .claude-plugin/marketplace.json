@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, and the @ariestools/sdk utility libraries.",
-    "version": "0.1.3"
+    "version": "0.1.4"
   },
   "plugins": [
     {
       "name": "ariestools-skills",
       "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, and the @ariestools/sdk utility libraries.",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "author": {
         "name": "Aries Tools"
       },
