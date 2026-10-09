@@ -5,14 +5,14 @@
     "email": "support@xylabs.com"
   },
   "metadata": {
-    "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, the @ariestools/sdk utility libraries, and repository documentation conventions for agents (AGENTS.md, docs/papers lifecycle, xy agent lint).",
-    "version": "0.1.6"
+    "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, the @ariestools/sdk utility libraries, the @ariestools/sdk-react React UI libraries, actor-kit actors and providers with their cli-kit and browser-kit hosts, and repository documentation conventions for agents (AGENTS.md, docs/papers lifecycle, xy agent lint).",
+    "version": "0.1.7"
   },
   "plugins": [
     {
       "name": "ariestools-skills",
-      "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, the @ariestools/sdk utility libraries, and repository documentation conventions for agents (AGENTS.md, docs/papers lifecycle, xy agent lint).",
-      "version": "0.1.6",
+      "description": "Agent skills for Aries Tools TypeScript development: shared conventions, the @ariestools/toolchain xy CLI, ESLint and TypeScript configs, Vitest presets, dependency policy, the @ariestools/sdk utility libraries, the @ariestools/sdk-react React UI libraries, actor-kit actors and providers with their cli-kit and browser-kit hosts, and repository documentation conventions for agents (AGENTS.md, docs/papers lifecycle, xy agent lint).",
+      "version": "0.1.7",
       "author": {
         "name": "Aries Tools"
       },
@@ -27,7 +27,12 @@
         "vitest",
         "pnpm",
         "agents-md",
-        "documentation"
+        "documentation",
+        "react",
+        "mui",
+        "actor",
+        "cli-kit",
+        "browser-kit"
       ],
       "keywords": [
         "ariestools",
@@ -38,7 +43,12 @@
         "vitest",
         "pnpm",
         "agents-md",
-        "documentation"
+        "documentation",
+        "react",
+        "mui",
+        "actor",
+        "cli-kit",
+        "browser-kit"
       ]
     }
   ]
